@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=exo-open --launch WebBrowser http://comunidadiple.com.ar/
+Icon=distributor-logo
+StartupNotify=false
+Terminal=false
+Categories=X-XFCE;X-Xfce-Toplevel;
+OnlyShowIn=XFCE;
+Name=Comunidad IPLE Website
+Name[fi]=Xubuntun verkkosivusto
+Comment=Learn more about Linux IPLE on our website.
+Comment[fi]=Lue lisää Xubuntusta verkkosivustollamme.
