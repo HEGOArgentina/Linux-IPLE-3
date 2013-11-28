@@ -1,0 +1,9 @@
+NAME="Linux IPLE"
+VERSION="3"
+ID=iple
+ID_LIKE=debian
+PRETTY_NAME="Linux IPLE 3"
+VERSION_ID="3.01"
+HOME_URL="http://www.comunidadiple.com.ar/"
+SUPPORT_URL="http://www.comunidadiple.com.ar/"
+BUG_REPORT_URL="http://www.comunidadiple.com.ar/"
